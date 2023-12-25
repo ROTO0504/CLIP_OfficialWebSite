@@ -16,7 +16,7 @@
     "core-js": "^3.33.0",
     "nuxt": "^3.7.4",
     "vue": "^3.3.4",
-    "vue-server-renderer": "^2.7.10",
+    "vue-server-renderer": "^2.7.16",
     "vue-template-compiler": "^2.7.10",
     "vuetify": "^3.3.19"
   },
