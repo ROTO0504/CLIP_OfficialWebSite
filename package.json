@@ -14,7 +14,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
     "core-js": "^3.33.0",
-    "nuxt": "^3.9.0",
+    "nuxt": "^3.11.1",
     "vue": "^3.3.4",
     "vue-server-renderer": "^2.7.16",
     "vue-template-compiler": "^2.7.10",
