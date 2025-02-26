@@ -8764,10 +8764,10 @@ vuetify@^2.6:
   resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.6.14.tgz#a5bf662de938efe0450ac59776b04f760f5407d2"
   integrity sha512-nr6wU3uTzhhEPssH23cW0Ee/hCrayp7cjl3nNjM2OmNwiJlV91tZiL1VO3597SqZyjh1xIa+m9J2rpKTSdIlrA==
 
-vuetify@^3.7.5:
-  version "3.7.5"
-  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-3.7.5.tgz#087632a0c6e32ee7114e046bcbf52a55f43e52e1"
-  integrity sha512-5aiSz8WJyGzYe3yfgDbzxsFATwHvKtdvFAaUJEDTx7xRv55s3YiOho/MFhs5iTbmh2VT4ToRgP0imBUP660UOw==
+vuetify@^3.7.14:
+  version "3.7.14"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-3.7.14.tgz#7d082cc90eef79cc17725a6983e3762b9041d0cd"
+  integrity sha512-L5oD0x3Wrp49Khp+16dRykAFUZq6WXqX7OHLTwXnyEliJ48ERC9WfEtN0YOuEIhor/b2IOZXl+11fs/m452/Lw==
 
 webidl-conversions@^3.0.0:
   version "3.0.1"
